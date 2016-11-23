@@ -52,7 +52,7 @@ const App = React.createClass({
           height: '60px',
           minWidth: '60px'
         }}>
-        { cell === 1 ? <img className="animated wobble" src="/turkey.png" /> : null }
+        { cell === 1 ? <img className="animated wobble" src="/peppa.jpg" /> : null }
 
       </td>
 
