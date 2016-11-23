@@ -1,0 +1,19 @@
+{
+  "name": "react-gol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "keywords": [],
+  "author": "Tom",
+  "license": "ISC",
+  "dependencies": {
+    "gol-functional": "^1.0.3",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "react-scripts": "^0.7.0"
+  }
+}
